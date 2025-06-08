@@ -43,6 +43,8 @@ QR-based event attendance tracking
 Event follow-up dashboards for nomination analytics
 
 Export tools for nomination reports
+
+
 Note: EvAnza is currently in the development phase. I would love the opportunity to showcase the complete solution during judging sessions and fireside chats. Due to my university exams last month, the majority of the development was done within just 8 days. I’m eager to present the full, refined version of EvAnza soon.
 ---
 
