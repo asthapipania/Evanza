@@ -44,3 +44,13 @@ Event follow-up dashboards for nomination analytics
 
 Export tools for nomination reports
 Note: EvAnza is currently in the development phase. I would love the opportunity to showcase the complete solution during judging sessions and fireside chats. Due to my university exams last month, the majority of the development was done within just 8 days. I’m eager to present the full, refined version of EvAnza soon.
+---
+
+## 🎥 Watch EvAnza in Action
+
+Experience a full walkthrough of how EvAnza empowers banks to manage events, nominate clients, and streamline operations—end to end.
+
+[![Watch the Demo](https://img.youtube.com/vi/4xSW3luSzUc/hqdefault.jpg)](https://www.youtube.com/watch?v=4xSW3luSzUc)
+
+---
+
